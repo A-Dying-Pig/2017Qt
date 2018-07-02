@@ -1,0 +1,81 @@
+<?xml version ="1.0"encoding = "UTF - 8"?>
+<Card>
+    <hand_card id="14">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="1">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="10">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="17">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="4">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="25">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="2">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="3">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="9">
+        <object_id>1</object_id>
+    </hand_card>
+    <hand_card id="11">
+        <object_id>1</object_id>
+    </hand_card>
+    <card id="8">
+        <object_id>1</object_id>
+    </card>
+    <card id="6">
+        <object_id>1</object_id>
+    </card>
+    <card id="7">
+        <object_id>1</object_id>
+    </card>
+    <card id="19">
+        <object_id>1</object_id>
+    </card>
+    <card id="18">
+        <object_id>1</object_id>
+    </card>
+    <card id="20">
+        <object_id>1</object_id>
+    </card>
+    <card id="21">
+        <object_id>1</object_id>
+    </card>
+    <card id="23">
+        <object_id>1</object_id>
+    </card>
+    <card id="23">
+        <object_id>1</object_id>
+    </card>
+    <card id="26">
+        <object_id>1</object_id>
+    </card>
+    <card id="28">
+        <object_id>1</object_id>
+    </card>
+    <card id="34">
+        <object_id>1</object_id>
+    </card>
+    <card id="33">
+        <object_id>1</object_id>
+    </card>
+    <card id="30">
+        <object_id>1</object_id>
+    </card>
+    <card id="29">
+        <object_id>1</object_id>
+    </card>
+    <card id="32">
+        <object_id>1</object_id>
+    </card>
+</Card>
